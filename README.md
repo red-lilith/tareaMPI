@@ -1,6 +1,6 @@
 ### INTEGRANTES: 
 
-- Diana M. García - 145
+- Diana M. García - 1531722
 - Alexandra López - 1530267
 - Alejandro Orobio - 1533627
 
